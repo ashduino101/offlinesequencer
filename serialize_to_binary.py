@@ -30,3 +30,4 @@ seq = appJar.gui()
 seq.addLabel("title", "Welcome to appJar")
 seq.setLabelBg("title", "red")
 seq.go()
+# not yet implemented
