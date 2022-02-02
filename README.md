@@ -1,4 +1,4 @@
-# onlinesequencer-to-txt
+# offlinesequencer
 This will visualize OnlineSequencer files in a sequencer, that can then be played (coming soon)
 **Automatically downloads needed libraries**
 How To Use:
